@@ -1,3 +1,2 @@
-<<<<<<< HEAD
 libin3
-luodan6
+luodan67
